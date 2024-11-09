@@ -1,0 +1,91 @@
+    1  cd bunun_içine_\ repodan_al/
+    2  git config --global user.name "abahsidev"
+    3  repo adresi yazılcak
+    4  git config --global user.email  "abahsi@msn.com" 
+    5  git config --global user.email  "abahsi@msn.com" 
+    6  git clone https://github.com/abahsidev/HW_10.git
+    7  git init 
+    8  git status
+    9  git add.
+   10  git add
+   11  git add .
+   12  git status
+   13  git status
+   14  git add .
+   15  cd HW_10/
+   16  git status
+   17  git add .
+   18  git status
+   19  git status
+   20  git add .
+   21  git commit -m " bu benim ilşk commitim oldu" 
+   22  git log 
+   23  git log.
+   24  git push
+   25  git add .
+   26  git commit
+   27  [200~git config --global user.name "abahsidev"
+   28  git config --global user.name "abahsidev"
+   29  git config --global user.email  "abahsi@msn.com" 
+   30  git branch
+   31  git config [200~git config
+   32  git config
+   33  $ git config
+   34  git config --global user.name "abahsidev"
+   35  git config --global user.email  "abahsi@msn.com"
+   36  cd B
+   37  cd bunun_içine_\ repodan_al/
+   38  git clone
+   39  git clone ^[[200~https://github.com/abahsidev/HW_10-.git~
+   40  git clone https://github.com/abahsidev/HW_10-.git
+   41  git status
+   42  git status
+   43  cd HW_10-/
+   44  git status
+   45  git add .
+   46  git status
+   47  git add .
+   48  git commit -m "bu benim ilk commitim "
+   49  git status
+   50  git add .
+   51  git status
+   52  git add .
+   53  git commit -m "bu benim ilk commitim "
+   54  mkdir main_test.txt
+   55  del main_test.txt
+   56  help
+   57  echo main_test.txt
+   58  echo>main_test.txt
+   59  git add .
+   60  git status
+   61  git commit -m "main_test commiti "
+   62  git branch
+   63  git checkout --b developer
+   64  git branch
+   65  git checkout --b developer
+   66  git checkout --b <developer>
+   67  git checkout -b developer
+   68  git branch
+   69  echo>develop_test.txt
+   70  git status
+   71  git add .
+   72  git commit -m "developer_test commiti "
+   73  git branch
+   74  git checkout 
+   75  git branch
+   76  git checkout main
+   77  git branch
+   78  git merge developer
+   79  git log
+   80  history > command_list.csv
+   81  git add .
+   82  git push
+   83  git push
+   84  git status
+   85  git add .
+   86  git push
+   87  git merge developer
+   88  git status
+   89  git add .
+   90  git Bash history > command_list.csv
+   91  history > command_list.csv
